@@ -32,3 +32,7 @@ dlib >= 19.22.0
 numpy >= 1.19.0
 scipy >= 1.5.0
 playsound >= 1.2.2   # optional (for audio alerts)
+
+### use python version and dlib verdsion same in this case we have used pyhon 3.12 and same dlib version  12 which is compatible with python.
+- landmark file is used in this
+shape_predictor_68_face_landmarks.dat
